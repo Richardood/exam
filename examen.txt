@@ -1,0 +1,86 @@
+// ¿Cuál es la diferencia fundamental entre let y const en JavaScript?
+    // Una variale es constante y no cambia let es para declarar variables
+
+// ¿Qué significa que una variable declarada con let sea mutable(que se pueda cambiar su valor)?
+    //que puede cambiar a lo largo del programa
+
+// ¿Por qué es importante entender la diferencia entre let y const al programar en JavaScript?
+    //para no caer en errores de cambios en las variables y la proteccion de datos
+
+// ¿Cuál es el problema principal con el uso de "var" en JavaScript?
+    //limitan el alcance del bloque
+
+// ¿Qué diferencias existen entre var y let/const en términos de ámbito (scope)?
+    //Var tiene alcance alcance globar, les se puede actualizar y declarar dentro de su alcance
+
+// ¿Cuáles son los cinco tipos de datos primitivos vistos en el curso de JavaScript?
+    // int,string,float,double,bool
+
+// ¿Cuál es el tipo de dato primitivo que se utiliza para representar un valor verdadero o falso?
+    //bool
+
+// ¿Qué tipo de dato primitivo se utiliza para representar valores que no están definidos o que están ausentes?
+    //undefined
+
+// ¿Cómo se define una cadena de texto (String) en JavaScript?
+    // cont nombre = 'hola' con cmillas jaja
+
+// ¿Qué es una función en programación y para qué se utiliza?
+    // para realizar tareas repetitivas en menos codigo
+
+// ¿Cómo se define una función en JavaScript? Proporciona un ejemplo básico(no utilizar function).
+    const a = (n)=>{
+        return n;
+    }
+
+// ¿Qué es un parámetro en el contexto de las funciones?
+    // el que se declara dentro de la funcion
+
+// ¿Qué es un argumento en el contexto de las funciones?
+    // el que se envia a la funcion
+
+// ¿Cuál es la relación entre los parámetros y los argumentos en una función?
+    // que los argumentos de la funcion trabajan con los argumentos que se le envian 
+
+// ¿Cuál es la diferencia entre pasar una variable por valor y pasarla por referencia?
+    // la referencia puede modificar el objeto si no se rompe y se envia 
+
+// ¿Qué es un objeto en el contexto de la programación?
+    // es un objeto que tiene propiedades que queramos xd 
+
+// ¿Cómo se define un objeto en JavaScript?
+    objeto = {
+        carlos: 'amigo'
+    };
+
+// ¿Cómo se accede a las propiedades y los métodos de un objeto en JavaScript?
+    objeto.carlos
+
+// ¿Qué es un array en programación y para qué se utiliza?
+    //es una coleccion de datos, se usa para almacenar y recibir datos 
+
+// ¿Cómo se define y se crea un array en JavaScript?
+    array = [];
+
+// ¿Cómo se accede a los elementos de un array en JavaScript?
+    array[1]; //a travez del indice
+
+// ¿Cómo se realiza la iteración sobre los elementos de un array en JavaScript?
+    //con un for
+
+// ¿Cómo se define una clase en JavaScript?
+    class carlos{
+
+    }
+
+// ¿Cómo se crea un objeto a partir de una clase en JavaScript?
+    //no me acuerdo xd
+
+// ¿Qué es la estructura condicional "if" en programación y para qué se utiliza?
+    // enserio? 
+
+// ¿Cuál es la importancia de los bloques "else" y "else if" en una estructura condicional "if"?
+    // facil, para evaluar condiciones
+
+// ¿Cuál es la diferencia entre los operadores "==" y "===" en una condición "if"?
+    //estrico evalua el tipo de dato y el numero, el == es solo igualdad no diferencia entre tipo de dato 
